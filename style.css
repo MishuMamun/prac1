@@ -1,0 +1,14 @@
+
+
+body{
+    background: skyblue;
+    padding: 20px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    outline: none;
+    box-sizing: border-box;
+}
