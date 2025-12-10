@@ -1,7 +1,7 @@
 
 
 body{
-    background: skyblue;
+    background: rgb(238, 250, 255);
     padding: 20px;
 }
 
@@ -11,4 +11,9 @@ body{
     text-decoration: none;
     outline: none;
     box-sizing: border-box;
+}
+/* app v3 -> release3 start */
+h3{
+    background-color: skyblue;
+    margin: 10px 0;
 }
